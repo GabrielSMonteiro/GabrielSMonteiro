@@ -1,32 +1,88 @@
-### Welcome to Gabriel Monteiro' space!
-- 👨🏻‍🎓I'm currently studying on Brasilia University (UnB) and UniCeub
-- 👨🏻‍💻Undergraduate of Computer Science
-- 👨🏻‍🎓Software Engeneering in training
+<h1 align="center">Gabriel Monteiro</h1>
+
+<p align="center">
+  <i>Estudante de Engenharia de Software · Desenvolvedor Full-Stack · Desenvolvo sites que resolvem projetos reais!</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/GabrielSMonteiro">
+    <img src="https://komarev.com/ghpvc/?username=GabrielSMonteiro&label=Profile%20Views&style=flat-square&color=blueviolet" />
+  </a>
+</p>
+
+<p align="center">
+  Entre aulas e projetos, gosto de transformar ideias em aplicações reais. Já trabalhei com desenvolvimento web, aplicações mobile, sistemas embarcados e integrações entre frontend, backend e serviços de autenticação.
+</p>
+
+---
+
+### Sobre mim
+
+Curso Engenharia de Software na **Universidade de Brasília (UnB)** e cursei Análise e Desenvolvimento de Sistemas no **UniCEUB**. Entre aulas e projetos, gosto de colocar a mão na massa: seja integrando autenticação num backend, ajustando um deploy que teimava em não subir, ou aprendendo uma ferramenta nova só para ver até onde ela vai.
+
+O que mais me interessa no momento:
+
+- Desenvolvimento Web Full-Stack
+- Mobile com React Native
+- Sistemas Embarcados
+- Arquitetura de Software
+- Experiência do Usuário (UX)
+- Clean Code & boas práticas de engenharia
+
+---
+
+### Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,python,c,cpp,cs,java,mysql,sqlite,firebase,git,github,vscode,figma,arduino" />
+</p>
+
+---
+
+### Projetos em destaque
+
+- **Sistema de Gestão para Idosos** — plataforma para acompanhamento e gestão de cuidados a idosos, desenvolvida como projeto acadêmico em equipe.
+- **Chat em Tempo Real** — aplicação de mensagens instantâneas explorando comunicação bidirecional e arquitetura de eventos.
+- **Slenderman (Pygame)** — jogo 2D de sobrevivência, feito para aprender lógica de jogos do zero em Python.
+- **Arduino Smart Foosball** — pebolim inteligente com contagem automática de gols via sensores e Arduino.
+- **Portfólio Pessoal** — site próprio para apresentar projetos e trajetória.
+
+> Atualmente participo do desenvolvimento de uma plataforma full-stack para uma organização sem fins lucrativos, utilizando React, FastAPI, Keycloak e Vercel.
+
+---
+
+### Estatísticas
 
 <div align="center">
-  <a href="https://instagram.com">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSMonteiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMonteiro&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-    
-  ##
- 
-<div> 
-  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/GabrielMonteiro#5865" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gabrielmonteiro1203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/GabrielSMonteiro-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://t.me/gabrielsmonteiro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> 
- 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielSMonteiro&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSMonteiro&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielSMonteiro&theme=github-dark&hide_border=true"/>
+</div>
 
+---
+
+### Aprendendo agora
+
+`Arquitetura de Software` · `Cloud Computing` · `Inteligência Artificial` · `DevOps` · `System Design`
+
+---
+
+### Como me encontrar
+
+<p align="center">
+  <a href="mailto:gabrielmonteiro1203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielsantosmonteiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/gabrielsmonteiro">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/GabrielSMonteiro">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
