@@ -34,7 +34,7 @@ O que mais me interessa no momento:
 ### Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,python,c,cpp,cs,java,mysql,sqlite,firebase,git,github,vscode,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=js ts,react,next, node,python,java,c,git,docker,mysql,firebase,figma" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ O que mais me interessa no momento:
   <a href="https://www.linkedin.com/in/gabrielsantosmonteiro/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/gabrielsmonteiro">
+  <a href="https://t.me/gabriel_monte">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://github.com/GabrielSMonteiro">
